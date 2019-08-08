@@ -1,6 +1,6 @@
 # tmux cheatsheet
 
-As configured in [my dotfiles](https://github.com/henrik/dotfiles/blob/master/tmux.conf).
+As configured in [my dotfiles](https://github.com/elnur-hasanov/tmux.conf/blob/master/.tmux.conf).
 
 start new:
 
